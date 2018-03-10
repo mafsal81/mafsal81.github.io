@@ -502,6 +502,17 @@ h6,
   color: #000000;
   font-size: 17px;
 }
+#header3-h .mbr-section-title,
+#header3-h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-h .mbr-section-subtitle {
+  font-size: 25px;
+  color: #41a85f;
+}
+#header3-h .mbr-section-title {
+  font-size: 46px;
+}
 #gallery2-a .mbr-gallery-item > div > span {
   color: #f3c649;
 }

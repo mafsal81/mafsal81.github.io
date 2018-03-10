@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -167,7 +167,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery2-a\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-g\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-g\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -255,6 +255,33 @@
           ],
           "_name": "header6",
           "_anchor": "header6-5"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "25px",
+              "color": "#41a85f"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "title": "ROBOMY BUSINESS SERVICES",
+          "meta": "Innovate.Implement.Improve",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-h"
         },
         {
           "_inherit": "gallery1",
