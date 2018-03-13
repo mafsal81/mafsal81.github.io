@@ -20,10 +20,12 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 49,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -66,10 +68,10 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "color": "#ffffff",
-              "font-size": "48px"
+              "font-size": "60px"
             }
           },
           "_anchor": "header1-1",
@@ -92,7 +94,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
-          "title": "ARTIFICIAL INTELLIGENCE FOR LIFE",
+          "title": "ARTIFICIAL INTELLIGENCE DEFINED",
           "text": "Emerging technologies want to change how you work and live—if you’re ready to go.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header6-5\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> "
         },
@@ -167,7 +169,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-g\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -184,7 +186,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROBOMY SDN BHD</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROBOMY SDN BHD</a>",
           "_tags": [
             "Theme"
           ],
@@ -454,7 +456,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -486,7 +488,7 @@
           },
           "title": "STAY TUNED! <br>NOW EVERYONE CAN LEARN AI",
           "text": "We see tremendous opportunities ahead for people who have skills in artificial intelligence. However, potential outcomes will only become reality through systematic learning and associated research, and we are coming with a unique program that helps you learn artificial intelligence while you are a school student. Stay tuned for more on our action plan or simply contact us.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -494,6 +496,9 @@
           "_anchor": "msg-box5-g",
           "_styles": {
             "P": {
+              "text-align": "left"
+            },
+            "H3": {
               "text-align": "left"
             }
           }
@@ -514,8 +519,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future with sharp design and intelligent functions. To know more, just contact us.",
+          "title": "CONTACT US",
+          "subtitle": "Shape your future with sharp design and intelligent functions. To know more, contact us.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "m.afsal81@yahoo.com",
@@ -540,7 +545,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "I Want to Know!"
               }
             }
           },
@@ -586,7 +591,7 @@
           },
           "text1": "<strong>Address</strong><br>Robomy Sdn. Bhd.<br>E-06-01, Starparc Point<br>\nJalan Genting Klang,<br>53300 Kuala Lumpur<br>Malaysia",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@robo.my<br>\nPhone: +603 4131 5120<br>\nFax: +603 4131 5120",
-          "text3": "<strong>Links</strong><br>&nbsp;<br>www.siaraya.<a href=\"http://www.siaraya.com\">com</a><br><a href=\"http://www.adipven.com\">www.adipven.com</a>",
+          "text3": "<p><a href=\"http://www.siaraya.com\" target=\"_blank\"></a><strong>Links</strong><br>&nbsp;<br><a href=\"http://www.siaraya.com\" target=\"_blank\">www.siaraya.com</a><br><a href=\"http://www.adipven.com\" target=\"_blank\">www.adipven.com</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -597,6 +602,480 @@
               "color": "#c0a375"
             }
           }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Training",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1871x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Master Robotics, Build Robotic Systems",
+          "text": "Learn to make intelligent robots, self driving cars and geo-sensing drones, through our simple DIY programmes.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#header3-16\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-r",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px",
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "Programme Structure",
+          "meta": "Learn artificial intelligence, at your own pace!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#7e9b9f",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "LEVEL 1",
+          "subtitle1": "Fundamentals of Artificial Intelligence \n<div>Age Group: 13-17</div>",
+          "caption1": "Learning is based on a robotic car kit. Students will learn to assemble the car and write code to make the car self driving using images from a camera, by understanding road and detecting obstacles. Raspberry Pi is used as the brain of the robotic car. ",
+          "title2": "LEVEL 2",
+          "subtitle2": "<div>Object identification and Classification</div><div>Age Group: 15+ or Level 1 Completed</div>",
+          "caption2": "Learning is based on a robotic car kit. Students will learn to assemble the car and write code to make the car self driving using advanced artificial intelligence techniques and image processing.<br>Raspberry Pi is used as the brain of the robotic car.",
+          "title3": "LEVEL 3",
+          "subtitle3": "Artificial Intelligence on GPU Boards<div>Age Group: 20+ and Engineering Studies</div>",
+          "caption3": "Learning is based on a high performance small sized embedded GPU board and real in-vehicle implementations. Students will learn to develop a real automomous car using deep artificial neural networks and machine learning techniques.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-x",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#7e9b9f"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle DIV": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c1c1c1"
+          },
+          "title": "Why I Should Take This Course?",
+          "meta": "Importamce of learning artificial intelligence based autonomous vehicles.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-13"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Robomy Sdn. Bhd.",
+          "_anchor": "footer1-i"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "30px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#cccccc",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo1s-120x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-1",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ROBOMY SDN BHD</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c1c1c1"
+          },
+          "text": "<blockquote>Self-driving vehicles or autonomous vehicles (AV) are one of the most discussed technology sector. Their impact on our life will be beyond technological advancements, going deep into how we build our future cities and change our life styles.</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-11"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>The core technologies that enable autonomous vehicles are artificial intelligence, machine learning, image processing, high speed wireless communication and sensor miniaturization; and ongoing advances in these technologies result in unique challenges.</p><p><br></p><p> \n</p><p>\n</p><p>Current generation of engineers and technicians will play a key role in the development of future AV, and it is important that students graduate from an undergraduate engineering programs and even high school students prepared for the electronic design, test and measurement challenges needed to be solved in the industry.</p><p><br></p><p> \n</p><p>\n</p><p>With a team consisting of several years of experience and expertise in electronic product design, cloud based technologies and intellectual property, we are ready to help young generation to nurture the next generation of AV ready professionals.\n</p><p><br></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\">The course in Autonomous Vehicles is divided into three levels so that different communities of students ranging from school students to professional engineers can take part. The entire programme is arranged as a DIY way, so the students will learn through fun.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">In this course, you will learn about how autonomous vehicles work, and you’ll make and drive your very first autonomous vehicle model. The course will introduce how to use artificial intelligent techniques like neural networks to control an autonomous car from camera images.</span><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Students who enroll in this self-driving car program will master the technologies behind driverless vehicles and the future directions. From the model autonomous car built, they can scale it to different real world situation in autonomous vehicles and intelligent robots.<br></span><br></p><p>\n</p><p>&nbsp;</p><p>\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-12",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "We Will Call You Back",
+          "subtitle": "Since this is a unique programme of its kind, more details will be provided on personal request only. Feel free to contact us.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "m.afsal81@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Age and Educational Qualification"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1b",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo1s-128x136.png",
+              "width": 128,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Robomy Sdn. Bhd.<br>E-06-01, Starparc Point<br>\nJalan Genting Klang,<br>53300 Kuala Lumpur<br>Malaysia",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@robo.my<br>\nPhone: +603 4131 5120<br>\nFax: +603 4131 5120",
+          "text3": "<p><a href=\"http://www.siaraya.com\" target=\"_blank\"></a><strong>Links</strong><br>&nbsp;<br><a href=\"http://www.siaraya.com\" target=\"_blank\">www.siaraya.com</a><br><a href=\"http://www.adipven.com\" target=\"_blank\">www.adipven.com</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "contacts1-k"
         }
       ]
     }
