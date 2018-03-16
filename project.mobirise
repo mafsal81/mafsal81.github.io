@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -95,8 +95,8 @@
             "overlayOpacity": 0.5
           },
           "title": "ARTIFICIAL INTELLIGENCE DEFINED",
-          "text": "Emerging technologies want to change how you work and live—if you’re ready to go.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header6-5\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> "
+          "text": "Artificial Intelligence want to change how you live and work—we add emotions to it.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header6-5\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> "
         },
         {
           "_styles": {
@@ -105,7 +105,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "30px",
+              "font-size": "25px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -169,7 +169,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-g\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -225,7 +225,7 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#c1c1c1",
+            "overlayColor": "#7e9b9f",
             "overlayOpacity": "0.9"
           },
           "media": {
@@ -249,8 +249,8 @@
               "size": 250
             }
           },
-          "title": "What Robomy Offers For The Future <br>Life Style",
-          "text": "Artificial Intelligence is rapidly coming of age, and we are going to see a world were humans and machines live and work together, sharing intelligence.<br><br> Industries and &nbsp;business leaders make use of the “smart” machines and cognitive systems to deliver novel solutions to their clients.<br><br>But this is accomplished and managed only by conitinous research and development, along with creation of smart human resources through live training.&nbsp;<br><br>Scroll down to see some of the industrial sectors we support...<br><br>",
+          "title": "Robomy Defines, Designs &amp; Delivers Smart Solutions",
+          "text": "Artificial Intelligence is rapidly coming of age, and we are going to see a world were humans and machines live and work together, sharing intelligence. <br><br>Industries and business leaders make use of the \"smart\" machines and \"cognitive\" systems to deliver novel solutions to their clients.<br><br>But this is accomplished and managed only by conitinous research and development, along with creation of smart human resources through live training.&nbsp;<br><br>Robomy is in the process of adding emotions to artificial intelligence and focusing on delivering solutions that are smarter and social. <br><br>Scroll down to see some of the industrial sectors we support.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -264,7 +264,7 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "font-size": "25px",
+              "font-size": "21px",
               "color": "#41a85f"
             },
             ".mbr-section-title": {
@@ -275,9 +275,9 @@
             "showMeta": true,
             "paddingTop": "4",
             "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "bgColor": "#cccccc"
           },
-          "title": "ROBOMY BUSINESS SERVICES",
+          "title": "See What We Are Doing To Simplify Your Life!",
           "meta": "Innovate.Implement.Improve",
           "_tags": [
             "Theme"
@@ -306,7 +306,7 @@
                 "image": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080-800x533.jpg",
                 "alt": "",
-                "caption": "<a href=\"index.html#gallery2-a\">Future </a><a href=\"index.html#gallery2-a\">Transport</a>",
+                "caption": "<a href=\"index.html#gallery2-a\">Autonomous </a><a href=\"index.html#gallery2-a\">Vehicles</a>",
                 "active": false
               },
               {
@@ -449,9 +449,9 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "44",
-            "paddingTop": "3",
-            "paddingBottom": "0",
+            "imageSize": "48",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -486,8 +486,8 @@
               "size": 0
             }
           },
-          "title": "STAY TUNED! <br>NOW EVERYONE CAN LEARN AI",
-          "text": "We see tremendous opportunities ahead for people who have skills in artificial intelligence. However, potential outcomes will only become reality through systematic learning and associated research, and we are coming with a unique program that helps you learn artificial intelligence while you are a school student. Stay tuned for more on our action plan or simply contact us.",
+          "title": "STAY TUNED! <br>NOW EVERYONE CAN LEARN ARTIFICIAL INTELLIGENCE<br><br>",
+          "text": "We see tremendous opportunities for people who can design and develop artificial intelligence based systems. But potential outputs can only be achieved through continous learning and associated research activities, and we are coming with a unique program that teaches artificial intelligence starting from schools. We plan for a future where artificial intelligence is learned, as we learn mathematics and history today.&nbsp;<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -589,7 +589,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>Robomy Sdn. Bhd.<br>E-06-01, Starparc Point<br>\nJalan Genting Klang,<br>53300 Kuala Lumpur<br>Malaysia",
+          "text1": "<strong>Address</strong><br>Robomy Sdn. Bhd.<br>(1272407-V)<br>E-06-01, Starparc Point<br>\nJalan Genting Klang,<br>53300 Kuala Lumpur<br>Malaysia",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@robo.my<br>\nPhone: +603 4131 5120<br>\nFax: +603 4131 5120",
           "text3": "<p><a href=\"http://www.siaraya.com\" target=\"_blank\"></a><strong>Links</strong><br>&nbsp;<br><a href=\"http://www.siaraya.com\" target=\"_blank\">www.siaraya.com</a><br><a href=\"http://www.adipven.com\" target=\"_blank\">www.adipven.com</a></p>",
           "_tags": [
@@ -619,7 +619,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": false,
-            "imageSize": 50,
+            "imageSize": "47",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1871x1080.jpg",
             "parallax": true,
@@ -651,7 +651,7 @@
               "size": 250
             }
           },
-          "title": "Master Robotics, Build Robotic Systems",
+          "title": "Master Artificial Intelligence, Build Autonomous Systems",
           "text": "Learn to make intelligent robots, self driving cars and geo-sensing drones, through our simple DIY programmes.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#header3-16\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
@@ -716,26 +716,35 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x347.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x378.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -857,7 +866,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "30px",
+              "font-size": "25px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -921,7 +930,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">INDUSTRIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-g\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-7\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1063,7 +1072,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>Robomy Sdn. Bhd.<br>E-06-01, Starparc Point<br>\nJalan Genting Klang,<br>53300 Kuala Lumpur<br>Malaysia",
+          "text1": "<strong>Address</strong><br>Robomy Sdn. Bhd.<br>(1272407-V)<br>E-06-01, Starparc Point<br>\nJalan Genting Klang,<br>53300 Kuala Lumpur<br>Malaysia",
           "text2": "<strong>Contacts</strong><br>\nEmail: info@robo.my<br>\nPhone: +603 4131 5120<br>\nFax: +603 4131 5120",
           "text3": "<p><a href=\"http://www.siaraya.com\" target=\"_blank\"></a><strong>Links</strong><br>&nbsp;<br><a href=\"http://www.siaraya.com\" target=\"_blank\">www.siaraya.com</a><br><a href=\"http://www.adipven.com\" target=\"_blank\">www.adipven.com</a></p>",
           "_tags": [
