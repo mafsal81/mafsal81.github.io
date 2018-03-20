@@ -542,6 +542,13 @@ h6,
 #header3-16 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1e .mbr-section-subtitle {
+  color: #ffffff;
+}
 #features1-x .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #7e9b9f;
 }
